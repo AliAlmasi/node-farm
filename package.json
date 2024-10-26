@@ -1,0 +1,22 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alialmasi/node-farm.git"
+  },
+  "author": "Ali Almasi",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/alialmasi/node-farm/issues"
+  },
+  "homepage": "https://github.com/alialmasi/node-farm#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
